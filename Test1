@@ -12,7 +12,10 @@ public class YourName {
 
 
 
-
+int sum = x + y;
+int difference = z - b;
+int product = u * i; 
+int quotient = q / w;
 
 
 
