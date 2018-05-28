@@ -3,6 +3,7 @@ public class YourName {
 	public static void main(String[] args) {
 
 		System.out.println("Sacoobert");
-
+--int data does not need quotes
+                System.out.println(12345);
 	}
 }
