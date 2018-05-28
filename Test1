@@ -6,5 +6,25 @@ public class YourName {
 --int data does not need quotes you can also use boolean like (true) (false)
                 System.out.println(12345);
 --char value must be enclosed in single quotes '' char values are all letters, set alone. Capital letters included.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--Important variable edit below.
+int buttonvalue = 1;
+char buttonname = 'a';
+boolean click = true
+
+
 	}
 }
