@@ -31,6 +31,13 @@ relational operators below
     >: greater than.
     >=: greater than or equal to.
     if correct it will show true if incorrect it will show false.
+    
+    char myChar = 'A';
+    int myInt = -2;
+    System.out.println(myChar == myInt);
+    A does not equal to -2 so print = false
+    if refering to char still use '' (2 == 'a')
+    if refering to word still use "" (2 == "Sacoobert")
 */
 
 
