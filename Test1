@@ -1,11 +1,11 @@
---testing out java scripts
+//testing out java scripts
 public class YourName {
 	public static void main(String[] args) {
 
 		System.out.println("Sacoobert");
---int data does not need quotes you can also use boolean like (true) (false)
+//int data does not need quotes you can also use boolean like (true) (false)
                 System.out.println(12345);
---char value must be enclosed in single quotes '' char values are all letters, set alone. Capital letters included.
+//char value must be enclosed in single quotes '' char values are all letters, set alone. Capital letters included.
 
 
 
@@ -20,7 +20,7 @@ public class YourName {
 
 
 
---Important variable edit below.
+//Important variable edit below.
 int buttonvalue = 1;
 char buttonname = 'a';
 boolean click = true
