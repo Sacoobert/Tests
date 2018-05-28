@@ -3,7 +3,7 @@ public class YourName {
 	public static void main(String[] args) {
 
 		System.out.println("Sacoobert");
---int data does not need quotes
+--int data does not need quotes you can also use boolean like (true) (false)
                 System.out.println(12345);
 	}
 }
