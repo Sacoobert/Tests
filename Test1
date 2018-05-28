@@ -18,7 +18,13 @@ int product = u * i;
 int quotient = q / w;
 
 
+public class Modulo {
+	public static void main(String[] args) {
 
+		int myRemainder =  16 % 7;
+		System.out.println(myRemainder);
+/*modulo will take two value divide them and whatever is left will be said.
+For example 16 divided by 7 = 2 left.
 
 
 
