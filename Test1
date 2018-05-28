@@ -1,8 +1,8 @@
 --testing out java scripts
-public class Sacoobert {
+public class YourName {
 	public static void main(String[] args) {
 
-		System.out.println();
+		System.out.println("Sacoobert");
 
 	}
 }
