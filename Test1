@@ -38,7 +38,16 @@ relational operators below
     A does not equal to -2 so print = false
     if refering to char still use '' (2 == 'a')
     if refering to word still use "" (2 == "Sacoobert")
-*/
+    Data Types are int, boolean, and char.
+    Variables are used to store values.
+    Whitespace helps make code easy to read for you and others.
+    Comments describe code and its purpose.
+    Arithmetic Operators include +, -, *, /, and %.
+    Relational Operators include <, <=, >, and >=.
+    Equality Operators include == and !=.
+  */  
+    
+    
 
 
 
